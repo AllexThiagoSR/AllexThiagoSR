@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllexThiagoSR
-- 👀 I’m interested in programation back end
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programation full stack
+- 🌱 I’m currently learning web development(JavaScript, HTML e CSS)
 - 💞️ I’m looking to collaborate on web development
 
 <!---
