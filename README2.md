@@ -62,4 +62,4 @@ const allexThiago = {
 
 --------
 
-![Snake animation](https://github.com/allexthiagosr/allexthiagosr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AllexThiagoSR/AllexThiagoSR/blob/output/github-contribution-grid-snake.svg)
