@@ -54,12 +54,22 @@ const allexThiago = {
 
 --------
 
-<span><img height="45%" align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=allexthiagosr&theme=dark&show_icons=true&locale=en&layout=compact" alt="allexthiagosr" /></span>
+<br></br>
 
-<span>&nbsp;<img height="45%" align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=allexthiagosr&theme=dark&show_icons=true&locale=en" alt="allexthiagosr" /></span>
+<div align="center">
+<span><img height="45%" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=allexthiagosr&theme=dark&show_icons=true&locale=en&layout=compact" alt="allexthiagosr" /></span><span>&nbsp;<img height="45%" width="45%" src="https://github-readme-stats.vercel.app/api?username=allexthiagosr&theme=dark&show_icons=true&locale=en" alt="allexthiagosr" /></span>
+</div>
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allexthiagosr&theme=dark&" alt="allexthiagosr" /></span>
+<br></br>
+
+<div align="center">
+<span align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allexthiagosr&theme=dark&" alt="allexthiagosr" /></span>
+</div>
+
+<br></br>
 
 --------
 
-![Snake animation](https://github.com/AllexThiagoSR/AllexThiagoSR/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation]() -->
+
+<img src="https://github.com/AllexThiagoSR/AllexThiagoSR/blob/output/github-contribution-grid-snake.svg" />
