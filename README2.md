@@ -63,13 +63,13 @@ const allexThiago = {
 <br></br>
 
 <div align="center">
-<span align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allexthiagosr&theme=dark&" alt="allexthiagosr" /></span>
+<span ><img src="https://github-readme-streak-stats.herokuapp.com/?user=allexthiagosr&theme=dark&" alt="allexthiagosr" /></span>
 </div>
 
 <br></br>
 
 --------
 
-<!-- ![Snake animation]() -->
-
-<img src="https://github.com/AllexThiagoSR/AllexThiagoSR/blob/output/github-contribution-grid-snake.svg" />
+<div align="center">
+<span><img src="https://github.com/AllexThiagoSR/AllexThiagoSR/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /></span>
+</div>
