@@ -9,7 +9,7 @@ const allexThiago = {
     fullName: 'Allex Thiago Santos Rosa',
     birthDate: '07/12/2003',
     activities: "I'm currently developing my career in fullstack web development.",
-    pets: { count: 3, dogs: ['Mel'], cats: ['Mermã', 'Maluco'] }
+    pets: { count: 3, dogs: ['Mel'], cats: ['Mermã', 'Maluco'] },
     interests: {
       games: { 
         gamesIBeat: ['Titan Souls', 'FarCry 4', 'The Flame in the Flood', 'Hollow Knight', 'Tomb Raider'],
@@ -22,7 +22,7 @@ const allexThiago = {
         favoriteGroups: ['Black Pink', 'Imagine Dragons', 'Polyphia', 'HAIKASS'],
       },
       sports: ['Volleyball', 'Basketball'],
-      learn: ['Programming Language', ]
+      learn: ['Programming Language', ],
     },
   },
   skills: {
@@ -31,7 +31,7 @@ const allexThiago = {
       HTML: ['HTML5', 'Semantic HTML'],
       CSS: ['CSS3'],
       Git: ['Git', 'GitHub'],
-    }
+    },
     frontEnd: {
       tools: ['React', 'Redux', 'Jest'],
       style: ['Bootstrap'],
@@ -43,7 +43,7 @@ const allexThiago = {
       c: ['Arduino', 'Basics'],
       ladder: ['Basics'],
     },
-  }
+  },
 };
 ```
 
