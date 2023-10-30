@@ -3,9 +3,34 @@
 
 <br></br>
 
+  <h4>Skills</h4>
+
+  ```js
+  const allexThiagoSkills = {
+    fundamentals: {
+      JavaScript:  ['ES6'],
+      HTML: ['HTML5', 'Semantic HTML'],
+      CSS: ['CSS3'],
+      VersionControl: ['Git', 'GitHub'],
+      General: ['Layered Architecture', 'MySQL', 'Restful API', 'Docker', 'SOLID Principles'],
+    },
+    frontEnd: {
+      tools: ['React', 'Redux', 'Jest'],
+      style: ['Bootstrap'],
+    },
+    backEnd: {
+      Python: ['Basics', 'Data Structures', 'POO'],
+      NodeJs: ['Express', 'Sequelize', 'JWT', 'POO', 'JavaScript', 'TypeScript', 'Integration tests'],
+    },
+  };
+```
+
+<br></br>
+
+<h4>Personal</h4>
+
 ```js
 const allexThiago = {
-  personal: {
     fullName: 'Allex Thiago Santos Rosa',
     birthDate: '07/12/2003',
     activities: "I'm currently developing my career in fullstack web development.",
@@ -21,31 +46,9 @@ const allexThiago = {
         favoriteArtists: ['Dua Lipa', 'Arianna Grande', 'Teto', 'Post Malone'],
         favoriteGroups: ['Black Pink', 'Imagine Dragons', 'Polyphia', 'HAIKASS'],
       },
-      sports: ['Volleyball', 'Basketball'],
-      learn: ['Programming Language', ],
     },
-  },
-  skills: {
-    fundamentals: {
-      JavaScript:  ['ES6'],
-      HTML: ['HTML5', 'Semantic HTML'],
-      CSS: ['CSS3'],
-      Git: ['Git', 'GitHub'],
-    },
-    frontEnd: {
-      tools: ['React', 'Redux', 'Jest'],
-      style: ['Bootstrap'],
-    },
-    backEnd: {
-      Python: ['Basics'],
-    },
-    industrialAutomation: {
-      c: ['Arduino', 'Basics'],
-      ladder: ['Basics'],
-    },
-  },
-};
-```
+  };
+  ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
