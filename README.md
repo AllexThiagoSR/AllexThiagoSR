@@ -20,7 +20,7 @@
     },
     backEnd: {
       Python: ['Basics', 'Data Structures', 'POO'],
-      NodeJs: ['Express', 'Sequelize', 'JWT', 'POO', 'JavaScript', 'TypeScript', 'Integration tests'],
+      NodeJs: ['Express', 'Sequelize', 'JWT', 'POO', 'JavaScript', 'TypeScript', 'Integration tests', 'Prisma'],
     },
   };
 ```
