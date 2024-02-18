@@ -34,6 +34,7 @@ const allexThiago = {
     fullName: 'Allex Thiago Santos Rosa',
     birthDate: '07/12/2003',
     activities: "I'm currently developing my career in fullstack web development.",
+    contact: 'allexthiagodev@gmail.com',
     pets: { count: 3, dogs: ['Mel'], cats: ['Mermã', 'Maluco'] },
     interests: {
       games: { 
